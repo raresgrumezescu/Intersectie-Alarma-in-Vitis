@@ -1,0 +1,14 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../alarma_test.cpp in debug mode
+   Compiling ../../../../alarma.cpp in debug mode
+   Generating csim.exe
+Noul registru este : 45184   Registrul initial este : 45184         Cod bec3 este : 255  7segmente asteptat : 255        Cod bec2 este : 192  7segmente asteptat : 192        Cod bec1 este : 171  7segmente asteptat : 171
+Noul registru este : 53376   Registrul initial este : 41088         Cod bec3 este : 134  7segmente asteptat : 134        Cod bec2 este : 164  7segmente asteptat : 164        Cod bec1 este : 192  7segmente asteptat : 192
+Noul registru este : 53312   Registrul initial este : 36928         Cod bec3 este : 134  7segmente asteptat : 134        Cod bec2 este : 249  7segmente asteptat : 249        Cod bec1 este : 192  7segmente asteptat : 192
+Noul registru este : 53252   Registrul initial este : 40964         Cod bec3 este : 134  7segmente asteptat : 134        Cod bec2 este : 192  7segmente asteptat : 192        Cod bec1 este : 176  7segmente asteptat : 176
+Noul registru este : 53250   Registrul initial este : 40962         Cod bec3 este : 134  7segmente asteptat : 134        Cod bec2 este : 192  7segmente asteptat : 192        Cod bec1 este : 164  7segmente asteptat : 164
+Noul registru este : 53249   Registrul initial este : 40961         Cod bec3 este : 134  7segmente asteptat : 134        Cod bec2 este : 192  7segmente asteptat : 192        Cod bec1 este : 249  7segmente asteptat : 249
+Test trecut cu succes !
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
